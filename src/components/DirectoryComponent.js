@@ -32,6 +32,8 @@ function Directory(props) {
                     <Breadcrumb>
                         <BreadcrumbItem><Link to="/home">Home</Link></BreadcrumbItem>
                         <BreadcrumbItem active>Directory</BreadcrumbItem>
+                        <BreadcrumbItem><Link to="/aboutus">About us</Link></BreadcrumbItem>
+                        <BreadcrumbItem><Link to="/contactus">Contact Us</Link></BreadcrumbItem>
                     </Breadcrumb>
                     <h2>Directory</h2>
                     <hr />
